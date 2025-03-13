@@ -5,10 +5,16 @@
 This project evaluates the performance of various deep learning models (ResNet, CNN, DenseNet, VGG16, VGG19) for plant leaf disease classification. The goal is to compare accuracy, training time, and other evaluation metrics to determine the most effective model for plant disease detection.
 
 # Dataset Details
-Dataset Used: The dataset we used was taken from Kaggle.
--Total Images: 80,327 (Train) <br> 24,364 (Validation) <br>  350 (Test) <br>
+Dataset Used: The dataset we used was taken from Kaggle. <br>
+-Total Images: <br> 
+80,327 (Train) <br> 
+24,364 (Validation) <br> 
+350 (Test) <br>
 -Number of Classes: 61 (Diseased & Healthy Leaves of 14 Plant Types)<br>
--Data Preprocessing: Image resizing (128×128) <br>normalization <br> data augmentation
+-Data Preprocessing: <br>
+Image resizing (128×128) <br>
+Normalization <br>
+Data augmentation
 
 # Technology Used
 -Python<br>
