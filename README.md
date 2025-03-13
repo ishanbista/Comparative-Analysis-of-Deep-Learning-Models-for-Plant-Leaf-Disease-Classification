@@ -57,9 +57,11 @@ Dataset Used: The dataset we used was taken from Kaggle.
 ![Image](https://github.com/user-attachments/assets/a09d33d4-125a-4f67-ae4d-688837ac051c)
 
 # Comparision of Model Performance
+![Image](https://github.com/user-attachments/assets/579124ce-e7a4-450a-a4a9-17cf1c49bcbd)
+
 
 # Comparison of Evaluation Matrices of Models
-
+![Image](https://github.com/user-attachments/assets/bff6f348-df75-48ec-8803-c5c0eb24abe7)
 
 # Conclusion
 Finally EfficientNet model was found to be one of the best performing model similar to ResNet model with only one AUC value below 1.00 and becoming near perfect model. The confusion matrix also showed similar performance to resnet model with maximum values falling under diagonal. This concluded that efficientNet and resnet model were best model for this leaf disease classification tasks.
