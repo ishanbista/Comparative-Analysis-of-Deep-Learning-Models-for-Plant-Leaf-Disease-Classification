@@ -1,14 +1,14 @@
-# Comparative-Analysis-of-Deep-Learning-Models-for-Plant-Leaf-Disease-Classification
-#  Project Title & Description
-#Title : Comparative Analysis of Deep Learning Models for Plant Leaf Disease Classification using AI and ML <br>
-Description:<br>
+# Comparative Analysis of Deep Learning Models for Plant Leaf Disease Classification
+# Project Title 
+ Comparative Analysis of Deep Learning Models for Plant Leaf Disease Classification using AI and ML <br>
+# Project Description
 This project evaluates the performance of various deep learning models (ResNet, CNN, DenseNet, VGG16, VGG19) for plant leaf disease classification. The goal is to compare accuracy, training time, and other evaluation metrics to determine the most effective model for plant disease detection.
 
 # Dataset Details
-Dataset Used:
--Total Images: 80,327 (Train), 24,364 (Validation), 350 (Test) <br>
+Dataset Used: The dataset we used was taken from Kaggle.
+-Total Images: 80,327 (Train) <br> 24,364 (Validation) <br>  350 (Test) <br>
 -Number of Classes: 61 (Diseased & Healthy Leaves of 14 Plant Types)<br>
--Data Preprocessing: Image resizing (128×128), normalization, data augmentation
+-Data Preprocessing: Image resizing (128×128) <br>normalization <br> data augmentation
 
 # Technology Used
 -Python<br>
@@ -56,14 +56,21 @@ Dataset Used:
 
 ![Image](https://github.com/user-attachments/assets/a09d33d4-125a-4f67-ae4d-688837ac051c)
 
+# Comparision of Model Performance
+
+# Comparison of Evaluation Matrices of Models
+
+
+# Conclusion
+Finally EfficientNet model was found to be one of the best performing model similar to ResNet model with only one AUC value below 1.00 and becoming near perfect model. The confusion matrix also showed similar performance to resnet model with maximum values falling under diagonal. This concluded that efficientNet and resnet model were best model for this leaf disease classification tasks.
 # Future Work & Improvements
 -Optimizing model performance<br>
 -Implementing real-time disease detection<br>
 -Deploying the model as a web application or mobile app<br>
 
 # Contributors
+-Ishan Bista <br>
 -Aashish Pandey<br>
 -Oman Neupane<br>
--Ishan Bista<br>
 -Rakesh Kumar chaudhary<br>
 -Nijjal Kachhapati
