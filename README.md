@@ -82,3 +82,5 @@ Finally EfficientNet model was found to be one of the best performing model simi
 -Oman Neupane<br>
 -Rakesh Kumar chaudhary<br>
 -Nijjal Kachhapati
+
+# Project Final Report link:  https://drive.google.com/file/d/1Ql07Y5ZxqMZ3K3lOvrCrYtc_A5Ay9mIT/view?usp=sharing
